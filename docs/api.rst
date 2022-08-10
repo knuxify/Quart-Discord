@@ -47,6 +47,15 @@ Utilities
 .. autodecorator:: quart_discord.requires_authorization
 
 
+
+Types
+-----
+
+.. autoclass:: quart_discord.types.Permissions
+    :members:
+    :inherited-members:
+
+
 Exceptions
 ----------
 

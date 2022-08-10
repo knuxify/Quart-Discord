@@ -23,9 +23,6 @@ Requirements
 - **cachetools**
     Quart Discord supports caching discord objects to boost the performance when page loads.
 
-- **discord.py**
-    Makes use of discord.py for re-using many Discord models.
-
 Installing
 ----------
 
